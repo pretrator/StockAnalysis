@@ -1,0 +1,22 @@
+{
+  "name": "stockanalysis",
+  "version": "1.0.0",
+  "description": "Stack to analyse market situation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pretrator/StockAnalysis.git"
+  },
+  "author": "Ujjwal Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pretrator/StockAnalysis/issues"
+  },
+  "homepage": "https://github.com/pretrator/StockAnalysis#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
